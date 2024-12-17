@@ -500,8 +500,8 @@
     gsap.set(headingAnimationLine, { perspective: 400 });
     headingSplitLine.split({ type: "words" })
     tl.from(headingSplitLine.words, { 
-      duration: 1, 
-      delay: 0.3, 
+      duration: 0.5, 
+      delay: 0.1, 
       opacity: 0, 
       rotationX: -50, 
       force3D: true, 
