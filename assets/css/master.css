@@ -3561,6 +3561,7 @@ img {
   padding: 100px 40px 60px;
   background-color: var(--gray-2);
   border-radius: 20px;
+  min-height: 350px;
 }
 @media (max-width: 1199px) {
   .service__content {
