@@ -174,7 +174,7 @@ a.db-btn-border.btn-rollover.colo-white {
 }
 .single-testimonial-5 {
     padding: 40px 40px 40px 40px;
-    background-color: #252525;
+    background-color: #1E334E;
     border-radius: 30px 30px 30px 30px;
     margin-bottom: 20px;
 }
@@ -234,10 +234,20 @@ a.db-btn-border.btn-rollover.colo-white {
     margin-bottom: 25px;
 }
 
+.home-6-heading-content h3 {
+    color: #FFFFFF;
+    font-family: "Inter", Sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-bottom: 25px;
+}
+
 .home-6-heading-content p {
     color: #FFFFFF;
     font-family: "Inter", Sans-serif;
-    font-size: 18px;
+    font-size: 22px;
     font-weight: 400;
     line-height: 1.5em;
     position: relative;

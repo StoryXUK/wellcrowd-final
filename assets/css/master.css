@@ -51,7 +51,7 @@
   --white: #fff;
   --white-2: #E3E3E3;
   --black: #000;
-  --black-2: #252525;
+  --black-2: #1E334E;
   --black-3: #1F242C;
   --black-4: #232323;
   --black-5: #2B2B5E;
@@ -9241,7 +9241,7 @@ HOME FIVE HISTORY
   }
 }
 .history__box-5 .title {
-  color: #252525;
+  color: #1E334E;
   font-size: 48px;
   font-weight: 600;
   line-height: 1;
@@ -9254,7 +9254,7 @@ HOME FIVE HISTORY
   }
 }
 .history__box-5 .title-2 {
-  color: var(--p-3, #252525);
+  color: var(--p-3, #1E334E);
   font-size: 100px;
   font-weight: 700;
   line-height: 1;
@@ -9357,7 +9357,7 @@ HOME FIVE GALLARY
   right: 30px;
   bottom: 30px;
   top: 30px;
-  background: #252525;
+  background: #1E334E;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: 0.6s;
@@ -9497,7 +9497,7 @@ HOME FIVE NEWSLETTER
 .newsletter__form-wrapper-5 form button {
   border: 0;
   padding: 20px 30px;
-  background: #252525;
+  background: #1E334E;
   color: var(--white);
 }
 
@@ -9705,7 +9705,7 @@ HOME FIVE PRICING
   color: var(--black);
 }
 .pricing__header-5 {
-  background: #252525;
+  background: #1E334E;
   padding: 40px;
   -webkit-transition: 0.6s;
   transition: 0.6s;
