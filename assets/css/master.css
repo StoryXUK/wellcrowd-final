@@ -366,6 +366,20 @@ img {
   }
 }
 
+.pt-30 {
+  padding-top: 30px;
+}
+@media (max-width: 991px) {
+  .pt-30 {
+    padding-top: 30px;
+  }
+}
+@media (max-width: 767px) {
+  .pt-30 {
+    padding-top: 30px;
+  }
+}
+
 .pt-100 {
   padding-top: 100px;
 }
