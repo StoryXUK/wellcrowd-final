@@ -408,6 +408,7 @@ section.team__area-3.home7 {
     text-align: center; /* Centers the text content */
     color: #555555; /* Dark grey color */
     font-weight: 300; /* Light font weight */
+    text-align: justify;
 }
 
 
